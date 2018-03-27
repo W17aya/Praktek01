@@ -14,12 +14,14 @@ public class KomputerAksi {
       Komputer Dell = new Komputer();
       
       Dell.merk="DELL XPS 13";
-      Dell.jenis="Netbook";
+      Dell.jenis="Ultrabook";
       Dell.spesifikasi="LAYAR IPS 4K DISPLAY"
               + "VGA 1080"
               + "CPU INTEL I7";
       Dell.harga="23.000.000";
       Dell.stok="tiga unit";
+      
+      Dell.cetakinfo();
       
       Komputer Macbook = new Komputer();
       
@@ -31,6 +33,8 @@ public class KomputerAksi {
       Macbook.harga="25.000.000";
       Macbook.stok="lima unit";
       
+      Macbook.cetakinfo();
+      
       Komputer Asus = new Komputer();
       Asus.merk="ASUS ROG GX800";
       Asus.jenis="Gaming netbook";
@@ -40,5 +44,7 @@ public class KomputerAksi {
       Asus.harga="90.000.000";
       Asus.stok="satu unit";
       
+      
+      Asus.cetakinfo();
   }
 }
