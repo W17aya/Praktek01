@@ -11,6 +11,9 @@ package praktek01;
  */
 public class KomputerAksi {
   public static void main(String[]args){
+      Komputer Dell = new Komputer();
+      Komputer Macbook = new Komputer();
+      Komputer Asus = new Komputer();
       
   }
 }
