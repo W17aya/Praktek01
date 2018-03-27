@@ -13,8 +13,8 @@ public class Komputer {
     String merk;
     String jenis;
     String spesifikasi;
-    Integer harga;
-    Integer stok;
+    String harga;
+    String stok;
     
     void cetakinfo()
     {
