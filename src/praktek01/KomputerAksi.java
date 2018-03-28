@@ -15,9 +15,7 @@ public class KomputerAksi {
       
       Dell.merk="DELL XPS 13";
       Dell.jenis="Ultrabook";
-      Dell.spesifikasi="LAYAR IPS 4K DISPLAY"
-              + "VGA 1080"
-              + "CPU INTEL I7";
+      Dell.spesifikasi="LAYAR TN PANEL 4K DISPLAY";
       Dell.harga="23.000.000";
       Dell.stok="tiga unit";
       
@@ -27,9 +25,7 @@ public class KomputerAksi {
       
       Macbook.merk="APPlE MACBOOK ";
       Macbook.jenis="Ultrabook";
-      Macbook.spesifikasi="LAYAR  RETINA DISPLAY"
-              + "VGA AMD RADEON PRO"
-              + "CPU INTEL I7";
+      Macbook.spesifikasi="LAYAR  RETINA DISPLAY";
       Macbook.harga="25.000.000";
       Macbook.stok="lima unit";
       
@@ -38,9 +34,7 @@ public class KomputerAksi {
       Komputer Asus = new Komputer();
       Asus.merk="ASUS ROG GX800";
       Asus.jenis="Gaming netbook";
-      Asus.spesifikasi="LAYAR IPS 4K DISPLAY 144HZ"
-              + "DUAL VGA 1080"
-              + "CPU INTEL I7HQ";
+      Asus.spesifikasi="LAYAR IPS 4K DISPLAY 144HZ";
       Asus.harga="90.000.000";
       Asus.stok="satu unit";
       
